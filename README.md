@@ -23,7 +23,7 @@ I built this site using simple HTML & CSS, hosted via GitHub Pages.
 
 **Atara**  
 📷 Instagram: [@yeeeep888](https://instagram.com/yeeeep888)  
-✉️ Email: atara789@gmail.com
+✉️ Email: qixiong789@gmail.com
 
 ---
 
